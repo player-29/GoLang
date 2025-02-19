@@ -1,0 +1,40 @@
+PS C:\Users\Asus\OneDrive\Desktop\Go_offline> go version /// to check version
+go version go1.23.4 windows/amd64
+PS C:\Users\Asus\OneDrive\Desktop\Go_offline> go mod init go_offline // to cerate a  go.mod file
+go: creating new go.mod: module go_offline
+go: to add module requirements and sums:
+        go mod init
+
+go run main.go ayush is a good boy // creates an array with ayush at index 1, then it follows. At zeroth index file path is stored
+
+PS C:\Users\Asus\OneDrive\Desktop\Go_offline> go run .                                        
+Hello, World! 
+hello there
+Please provide 3 arguments
+
+task:
+
+1. create a backend application that takes following this from Users
+    - Name
+    - Age
+    - bank balance
+
+2. Create a function Fizzbuzz that takes argument as num 
+  if num is divisible by 3 then print fizz
+  if num is divisible by 5 then print buzz
+    if num is divisible by 3 and 5 then print fizzbuzz
+    else print num
+
+3. WAP to take user details as input 
+    -Name
+    -Age
+    -City
+   convert the age into days
+   Print out the whole details
+
+4. Create a calculator
+    -Add
+    -Subtract
+    -Multiply
+    -Divide
+
